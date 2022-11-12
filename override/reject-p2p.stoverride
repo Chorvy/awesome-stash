@@ -1,4 +1,4 @@
-name: 屏蔽视频网站 P2P 后台上传
+name: 避免视频网站 P2P 后台上传
 desc: 避免视频网站通过 P2P 后台上传（原作者：Dreamacro）
 
 rules:
